@@ -1,0 +1,6 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+/*  second option for implementing TailwindCSS is to use this existing globals.css file and import Tailwind dependencies into it (like above), make sure to import the appropriate file into '_app.js' */
+/* ive kept this file in the chance that i want to create custom Tailwind templates */
